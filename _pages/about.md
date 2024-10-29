@@ -19,4 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-This page is under construction and will be updated soon!
+**This page is still under construction and will be updated soon!**
+I'm a data scientist with a passion for building products that help people. I'm currently working
+on applications of AI/ML methods with physical constraints and inverse problems. I started my career in
+geophysics and worked on nuclear explosion monitoring and deep learning/generative model applications
+for seismic imaging and inversion.
