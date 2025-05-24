@@ -21,4 +21,4 @@ social: true # includes social icons at the bottom of the page
 
 **This page is still under construction and will be updated soon!**
 I'm an applied data scientist/engineer with a passion for building products that help people. I'm currently working
-on applications of AI/ML methods with physical constraints and inverse problems. My background is in applied physics, primarily focusing on seismic wave simulation.
+on applications of AI/ML methods with physical constraints and inverse problems. My background is in applied physics, where I primarily focused on seismic wave propagation.
