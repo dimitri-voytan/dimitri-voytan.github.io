@@ -20,7 +20,5 @@ social: true # includes social icons at the bottom of the page
 ---
 
 **This page is still under construction and will be updated soon!**
-I'm a data scientist with a passion for building products that help people. I'm currently working
-on applications of AI/ML methods with physical constraints and inverse problems. I started my career in
-geophysics and worked on nuclear explosion monitoring and deep learning/generative model applications
-for seismic imaging and inversion.
+I'm an applied data scientist/engineer with a passion for building products that help people. I'm currently working
+on applications of AI/ML methods with physical constraints and inverse problems. My background is in applied physics, primarily focusing on seismic wave simulation.
