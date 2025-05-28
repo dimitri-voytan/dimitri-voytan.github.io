@@ -19,6 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-**This page is still under construction and will be updated soon!**
 I'm an applied data scientist/engineer with a passion for building products that help people. I'm currently working
-on applications of AI/ML methods with physical constraints and inverse problems. My background is in applied physics, where I primarily focused on seismic wave propagation.
+on AI Agents. Previously I've worked on applications of AI/ML methods with physical constraints and inverse problems. 
+My early background is in applied physics, where I primarily focused on seismic wave propagation. Let's connect!
+**I'm still working on building this page, and content will be updated frequently**
