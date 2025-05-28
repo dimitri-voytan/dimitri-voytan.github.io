@@ -2,7 +2,7 @@
 layout: distill
 title: Are Fourier Neural Operators Really Faster?
 description: We challenge the performance benefits of Fourier Neural Operators, particularly for linear wave propagation problems
-tags: distill formatting
+tags: NeuralOperators Ai4Science
 giscus_comments: true
 date: 2025-05-26
 featured: true
