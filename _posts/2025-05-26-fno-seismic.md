@@ -27,6 +27,12 @@ authors:
 #     jekyll-toc plugin (https://github.com/toshimaru/jekyll-toc).
 toc:
   - name: Introduction
+  - name: Background, Solving Wave Equations
+  - name: Experiments
+  - name: Key Results
+  - name: Why Are FNOs Slower?
+  - name: When Are FNOs Useful?
+  - name: Takeaways
     # if a section has subsections, you can add them as follows:
     # subsections:
     #   - name: Example Child Subsection 1
@@ -60,7 +66,7 @@ In this post, I benchmark a state-of-the-art Tucker-tensorized FNO against hand-
 
 In this post I'm focusing primarily on seismic wave propogation problems, but the results *probably* extend to other linear PDEs of similar complexity. It would be straightforward to extend the code for that purpose.
 
-## Background: Solving Wave Equations
+## Background, Solving Wave Equations
 
 Seismic wave simulations solve PDEs that model how waves travel through the Earth. One classic example is the 3D acoustic wave equation:
 
